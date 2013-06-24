@@ -7,7 +7,7 @@ Author:
 jcase@cunninglogic.com
 
 Special Thanks:
-Juggie, for pointing out an odd binary in an update (spritebud)
+Juggie, for pointing out an odd binary in an update (spritebud), that lead to me finding this vulnerability.
 
 Subject:
 Race condition in Sprite Software?s backup software, installed by OEM on LG Android devices.
